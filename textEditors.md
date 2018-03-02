@@ -47,6 +47,11 @@
 | C-p     | move cursor up one line
 
 
-## Nano
-| command | description | 
-| --------|------------- |  
+## Nano 
+
+### Basic commands
+
+| command | description  | 
+| --------|------------- |
+| ctrl-O  | Save current file | 
+| ctrl-X  | Exit nano    |
